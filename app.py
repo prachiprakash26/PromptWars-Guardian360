@@ -13,7 +13,7 @@ load_dotenv()
 # Set page configuration first
 st.set_page_config(
     page_title="Guardian360 - Climate Preparedness Platform",
-    page_icon="⛈️",
+    page_icon="⛈️ ",
     layout="wide",
     initial_sidebar_state="expanded"
 )

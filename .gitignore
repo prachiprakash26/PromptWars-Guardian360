@@ -1,5 +1,7 @@
 # Local secrets and configuration
 .env
+.env.*
+!.env.example
 
 # User profile persistence cache
 user_profile.json
