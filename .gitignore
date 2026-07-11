@@ -1,0 +1,23 @@
+# Local secrets and configuration
+.env
+
+# User profile persistence cache
+user_profile.json
+
+# Streamlit local configurations
+.streamlit/
+
+# Python caches and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local virtual environment
+.venv/
+venv/
+ENV/
+
+# Test and coverage caches
+.pytest_cache/
+.coverage
+htmlcov/
